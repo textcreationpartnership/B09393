@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from an officer of quallitie of the Parliaments army in Munster to an honourable member of the House of Commons wherein is shewed the late further great victories God hath given to the Lord Inchiqvin against the rebells in that province.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09393</idno><idno type="EEBO-CITATION">62369431</idno>
+  <idno type="VID">187988</idno>
+  <idno type="EEBO-PROQUEST">2240872099</idno>
+  
+            <idno type="STC">Wing L1449A</idno>
+            <idno type="STC">ESTC R179539</idno>
+            <idno type="OCLC">62369431</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09393)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187988)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2851:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from an officer of quallitie of the Parliaments army in Munster to an honourable member of the House of Commons wherein is shewed the late further great victories God hath given to the Lord Inchiqvin against the rebells in that province.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Paine,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>August 26, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  House of Commons.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:187988:1"/>
+            <pb facs="tcp:187988:1"/>
+            <pb facs="tcp:187988:2"/>
+            <pb facs="tcp:187988:2"/>
+            <p>A LETTER From an Officer of quallitie of the Par<g ref="char:EOLhyphen"/>liaments ARMY in <hi>Munster,</hi> to an Honourable Mem<g ref="char:EOLhyphen"/>ber of the House of Commons.</p>
+            <p>VVherein is shewed the late further great Victories God hath given to the LORD INCHIQVIN against the Rebells in that Province.</p>
+            <p>
+               <hi>London,</hi> Printed by <hi>T. Paine,</hi> August 26. 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:187988:3"/>
+            <pb n="3" facs="tcp:187988:3"/>
+            <head>A LETTER FROM AN OFFICER of quality of the Parliaments Army in <hi>Munster,</hi> to an honurable Member of the House of Commons.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">Y</seg>Our constant friendship ingages me to give you some account of our proceedings of late in this Pro<g ref="char:EOLhyphen"/>vince, we have kept the field ever since <hi>Midsommer,</hi> in pursuit of the Rebells, and not being able to draw them to an incounter, which my Lord Prsident design<g ref="char:EOLunhyphen"/>ed, we took divers Castles in the County of <hi>Lymrick,</hi> and his Lordship placed competent Wards in two of them, <hi>viz. Ballingarry</hi> and <hi>Castlematras,</hi> and destroyed the rest</p>
+            <p>Soone after this, his Lordship withdrew into the County of <hi>Corke,</hi> in expectation to ingage the Rebells Army before them, which hapned accordingly, for that the Rebells laid seidge to <hi>Ballingary</hi> Whereupon my Lord President marchcd with all possible speed to the reliefe of the place, but he that had the command of the Castle gave it up upon a summons, within the time
+<pb n="4" facs="tcp:187988:4"/> prefixed by my Lord, by his letter for his reliefe, being no way necessitated thereunto, for which he is now in question. Being disappointed of our engagemēt expected with the Army of the Rebels, the L. President march'd towards those parts where he was most like to find them. He first met with an entire company commanded by Capt. <hi>Den,</hi> of whom he slew 23. and took the Captaine, Lievtenant, Ensigne, and 27. common Soldiers Priso<g ref="char:EOLhyphen"/>ners, with 80. <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oare Armes.</p>
+            <p>From hence his Lordship ordered his march towards the Rebells, neer the River of <hi>Shanon,</hi> upon the River of <hi>Moylkerne,</hi> 4. or 5. miles above <hi>Lymrick,</hi> where with 1300. Horse, and 2000. foot, expecting the rest of their Army, the Rebells intended to secure themselves from fighting with us, untill they could get an advan<g ref="char:EOLhyphen"/>tage, that Country being a very fast Country by reason of great Rivers, Woods and, Bogs.</p>
+            <p>After 3. houres dispute we gained the passe with Gods assistance, on the third day of this month, and ha<g ref="char:EOLhyphen"/>ving beaten of and routed their forces, pursued them as farre as we could, kild 100. upon the place, wounded many, whereof some are since dead, took 200. servicea<g ref="char:EOLhyphen"/>ble Horses, their Riders forsaking them, and kild and wounded many others, who at the first pressed hard up<g ref="char:EOLhyphen"/>on our foot, here we got 200. C<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wes about the Lord <hi>Bourck</hi> of <hi>Castleconels,</hi> and Sir <hi>Edmond Walshes.</hi> That night we marched to <hi>New Castle,</hi> a Garrison of the Re<g ref="char:EOLhyphen"/>bells, within half a mile of the City of <hi>Lymrick,</hi> which was surrendred upon summons, and quarter only for their lives, upon relation of the defeat given to their Ar<g ref="char:EOLhyphen"/>my. And here we rested the remainder of that night, Some of our troops pursued the Rebells over the River of
+<pb n="5" facs="tcp:187988:4"/>
+               <hi>Shanon,</hi> (which is very seldome passable thereabouts) into the County of <hi>Clare</hi> or <hi>Thomond,,</hi> whither most of the Cattle about <hi>Lymrick</hi> (on this side) were driven over <hi>Lymerick bridge.</hi> The Lord President secured the sick and wounded Soldiers, with the baggage &amp; carriages with a good guard at another Castle lately taken in, and mar<g ref="char:EOLhyphen"/>ched with the Army homewards 2, or 3. miles, and in the evening faced about and commanded a party of 600. Musqueteers, and as many Horse to march away and passe the River, and drew up the rest of the Army pre<g ref="char:EOLhyphen"/>sently after to secure them, against any attempt.</p>
+            <p>The party that got over were disposed into several di<g ref="char:EOLhyphen"/>visions and commanded severall wayes under those Offi<g ref="char:EOLhyphen"/>cers that best knew the Country, Leivtenant <hi>Mathew Considen</hi> commanded one division towards <hi>Killallow,</hi> and having taken a prisoner in his march, hee (to save his life) discovreed where some Officers of quality were, upon the Lord Presidents Land called Bryens Bridge in <hi>Thomond,</hi> 6 myles from <hi>Lymrick</hi> wherupon he desisted from seeking after his prey, and early in the morning surrounded the place where they were, some of the Offi<g ref="char:EOLhyphen"/>cers made shift to get on horse back, but finding no pos<g ref="char:EOLhyphen"/>sibility of escaping, submitted themselves; Among those Officers was a brother of the Lord Presidents, a Leiv<g ref="char:EOLhyphen"/>tenant Colonell of horse who being in <hi>France</hi> at the be<g ref="char:EOLhyphen"/>gining of the Rebellion, was thence inveigl'd by the Re<g ref="char:EOLhyphen"/>bells for their assistance; and his Lordship desires to send him to the Parliament, the rest of the party gained a prey of 8000 head of Cattell and at least 5000 sheepe (the most part of them upon the Lands belonging to Briens bridge,) with good plunder. The sheepe could not passe the River, and many of the Cattell by reason
+<pb n="6" facs="tcp:187988:5"/> of the Woods thereabout, and their wildnesse by the losse of their Calves got away, but our Soldiers feasted themselves thereabouts, and brought away to our Gar<g ref="char:EOLhyphen"/>risons neer two thousand head of Cattell, which is a great reliefe unto them, our unexpected getting over the <hi>Shannon</hi> strook such a terror into the Rebels of <hi>Thomond,</hi> that they burnt the Earle of <hi>Thomonds</hi> Castle of <hi>Bun<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>atty,</hi> which they had garrison'd.</p>
+            <p>The Lord President with the Army is now returned for a few dayes to refresh the Soldiers, who are gene<g ref="char:EOLhyphen"/>rally barefoot and extreame naked, and he intends to march presently out againe towards the County of <hi>Tip<g ref="char:EOLhyphen"/>perary,</hi> and the borders of <hi>Lemster,</hi> whereof Col. <hi>Iones</hi> hath the command, which is conceived to be of much more advantage to the service then any other course, as<g ref="char:EOLhyphen"/>well in spoyling the enemies quarters, as in diverting <hi>Prestons</hi> forces, which we heare are very strong in those parts towards <hi>Dublin.</hi>
+            </p>
+            <p>In this six weeckes abiding in the field, the Soldiers had but six pound of bisquet and one pound of cheese for e<g ref="char:EOLhyphen"/>very Soldier that marched, but have made shift to live on what could be got in the Rebells quarters, where what we could not save, the Lo: President caused to bee burned, with many good Castles and all houses gene<g ref="char:EOLhyphen"/>rally; (especially for some myles about the City <hi>Lyme<g ref="char:EOLhyphen"/>ruk</hi>) to their great losse and dammage, computed by us at 80000 pound at the least, whereby they are much dis<g ref="char:EOLhyphen"/>abled from raising and supporting an Army, which they can very hardly make, unlesse they can procure <hi>Owen Roe Neale</hi> to come to their assistance, which they give out they have obtain'd, supposeing Preston wilbe able to ans<g ref="char:EOLhyphen"/>wer all occasions in <hi>Lemster</hi> and <hi>Vlster,</hi> and the Conaught Rebells
+<pb n="7" facs="tcp:187988:5"/> to defend themselves, they are to have a consultation shortly at Cashell (as we heare) about this affaire, which my Lord president is resolved to use all dilligence to in<g ref="char:EOLhyphen"/>terupt, In the meane time the forces in the Garrisons of <hi>Dungarvon,</hi> and <hi>Cappaquin</hi> with <hi>Lismore</hi> &amp; <hi>Tallow</hi> which we gained in <hi>May</hi> last have marched under Leiv. Col. <hi>Michaell Byrne</hi> into <hi>Butlers</hi> Country in <hi>Typerary</hi> by order of the Lord President to make a diversion, and taken the Lord of Cahers Castle called Grace Castle; stormed it, put the rogues to the sword &amp; got a good prey of 1800 head of Cattell and Garrans or Horses with some store of sheepe and though many of them were lost and Em<g ref="char:EOLhyphen"/>beziled, they brought home the most part of them to their Garisons with some good plunder, I cannot omit to acquaint you, in the County of <hi>Lymrick,</hi> we stormed &amp; burned the Abby of <hi>Adare</hi> held by the Rebells where four friers were burned and three taken Prisoners, and also the Garrison of <hi>Owney</hi> belonging to the heires of Sr. <hi>Edmond Walsh,</hi> with a Castle belonging to one Mr. <hi>Fox</hi> where all that were within suffered death, save Fox himselfe, who was let down by a rope from the Battle<g ref="char:EOLhyphen"/>ments who is kept prisoner, and one desperate Rogue who leapt from the battlements, (which few would have attempted) hopeing to make an escape, but was Knock<g ref="char:EOLhyphen"/>ed on the head by our Soldiers: Thus God hath blessed us exceedingly in the field service, and had my Lord some more foote, with some money to encourage the Soldiers, and carriages which are extreamely wanting, and clothes and shooes, for the Souldiers, who are many of them almost naked, he would doubt<g ref="char:EOLhyphen"/>lesse give the Parliament an account of this province beyond their expectation before this Winter passe,
+<pb n="8" facs="tcp:187988:6"/> no man can do more then he doth, with the meanes he has, should he take any great and considerable Towns, it will requre so many men to Garis<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> them, that our forces re<g ref="char:EOLhyphen"/>maining, would not be, sufficient to keep us masters of the field, &amp; they are such and so built, and lying on such Rivers that they ought to be kept when they are taken for the good of the ser<g ref="char:EOLhyphen"/>vice; and cannot easily be demolisht, if we would, and therefore we hope God wil put it into the hearts of the parliament, to send over some necessary supplyes speedily to encourage us to pro<g ref="char:EOLhyphen"/>ceed in the fin<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>shing of their work here, which no man can w<seg rend="sup">th</seg> more valour vigilance and fidelity intend, nor with more satis<g ref="char:EOLhyphen"/>faction to the whole Army then the Lord <hi>President</hi> doth who it hath pleas'd the Lord to make a happy instrumēt in this service. I crave your pardon for being thus prolix, and yet I have many things to acquaint you with, that all true English men that are lovers of their Country cannot be but well satisfied to heare see<g ref="char:EOLhyphen"/>ing God workes so graciously for them, against these barba<g ref="char:EOLhyphen"/>rous Rebells even when they can least attend it.</p>
+            <closer>
+               <dateline>
+                  <hi>Dated at Cork</hi>
+                  <date>
+                     <hi>the</hi> 12. <hi>of August</hi> 1647.</date>
+               </dateline>
+               <signed>
+                  <hi>Prisoners taken.</hi>
+                  <list>
+                     <item>
+                        <hi>Lievtenant Col. Christopher Bryen.</hi>
+                     </item>
+                     <item>
+                        <hi>Adiutant Generall Mac. Grath.</hi>
+                     </item>
+                     <item>
+                        <hi>Captain Bryen, Mac. Bryen Arra his sonne.</hi>
+                     </item>
+                     <item>
+                        <hi>Lievtenant Tirrelagh Bryen.</hi>
+                     </item>
+                     <item>
+                        <hi>Captain Harbert.</hi>
+                     </item>
+                     <item>
+                        <hi>Captain Fox.</hi>
+                     </item>
+                     <item>
+                        <hi>Lievtenant Colonell ô Callaghan.</hi>
+                     </item>
+                     <item>
+                        <hi>Lievtenant Bourke.</hi>
+                     </item>
+                     <item>
+                        <hi>Captaine Mac. Grath taken but dyed of his Wounds.</hi>
+                     </item>
+                     <item>
+                        <hi>Liev. Col. Ryan slaine and divers others of quallitie whose number or names are not yet knowne.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Amongst the rest I may not omit the Lord of</hi> Muskerys <hi>page, who was taken with his Lords cloake in the pursuit.</hi>
+               </p>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:187988:6"/>
+            <pb facs="tcp:187988:7"/>
+            <pb facs="tcp:187988:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
